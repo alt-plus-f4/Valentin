@@ -27,18 +27,15 @@ __Check out my GitHub repository:__
 <h2>👀 Stats</h2>
 
 <div>
-<!--   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=lakshmanan.meiyappan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  
-  <p align="center">
+  <p align="left">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alt-plus-f4" alt="GitHub Stats" /> <br/><br/>
-  <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alt-plus-f4" alt="WakaTime" />
   </p>
 </div>
+
+<h2>Technologies</h2>
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 <h2> About Me⚡:</h2>
 
