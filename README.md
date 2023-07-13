@@ -15,11 +15,8 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/alt-plus-f4/PyCalendly">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=alt-plus-f4&repo=PyCalendly" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/alt-plus-f4/CloudOrg-Simulator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=alt-plus-f4&repo=CloudOrg-Simulator" alt="GitHub Stats" />
+    <a href="https://github.com/alt-plus-f4/reddit">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=alt-plus-f4&repo=reddit" alt="GitHub Stats" />
     </a>
   </p>
 </div>
