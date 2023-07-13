@@ -1,6 +1,6 @@
 ## Hi I'm Valentin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=alt-plus-f4.alt-plus-f4)](https://github.com/alt-plus-f4) [![GitHub followers](https://img.shields.io/github/followers/alt-plus-f4.svg?style=social&label=Follow)](https://github.com/alt-plus-f4?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/alt-plus-f4.svg?style=social&label=Follow)](https://github.com/alt-plus-f4?tab=followers)
 
 I'm Valentin! 
 - <i>Currently:</i> Student at Technological school "Electronic systems" associated with the Technical university of Sofia
