@@ -1,26 +1,25 @@
 ## Hi I'm Valentin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=alt-plus-f4.alt-plus-f4)](https://github.com/alt-plus-f4) [![GitHub followers](https://img.shields.io/github/followers/alt-plus-f4.svg?style=social&label=Follow)](https://github.com/alt-plus-f4?tab=followers)
 
-I'm Lakshmanan Meiyappan! 
-- <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
-- <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation.
+I'm Valentin! 
+- <i>Currently:</i> Student at Technological school "Electronic systems" associated with the Technical university of Sofia
 
 <h2>💻 I'm Currently workng on</h2>
 
-- System Design and Distributed Computing
-- Software Engineering
+- FullStack reddit clone with NextJS and React
+- A couple other projects
 
 
 __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/laxmena/PyCalendly">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
+    <a href="https://github.com/alt-plus-f4/PyCalendly">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=alt-plus-f4&repo=PyCalendly" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/laxmena/CloudOrg-Simulator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=CloudOrg-Simulator" alt="GitHub Stats" />
+    <a href="https://github.com/alt-plus-f4/CloudOrg-Simulator">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=alt-plus-f4&repo=CloudOrg-Simulator" alt="GitHub Stats" />
     </a>
   </p>
 </div>
@@ -35,20 +34,20 @@ __Check out my GitHub repository:__
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmena" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alt-plus-f4" alt="GitHub Stats" /> <br/><br/>
   <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxmena" alt="WakaTime" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alt-plus-f4" alt="WakaTime" />
   </p>
 </div>
 
-<h2> About Laxmena⚡:</h2>
+<h2> About Me⚡:</h2>
 
-I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
+I'm a Student living in Sofia, Bulgaria, I love to read, enjoy music and explore nature outdoors.
  
-- Check out my Blog: [https://laxmena.com](https://laxmena.com)
-- Know more about me: [About Laxmena](https://laxmena.com/pages/about)
-- Write to me: [ConnectWith@laxmena.com](mailto:ConnectWith@laxmena.com)
+- Check out my Blog: [https://alt-plus-f4.com](https://alt-plus-f4.com)
+- Know more about me: [About alt-plus-f4](https://alt-plus-f4.com/pages/about)
+- Write to me: [ConnectWith@alt-plus-f4.com](mailto:ConnectWith@alt-plus-f4.com)
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:ConnectWith@laxmena.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:ConnectWith@alt-plus-f4.com">![ConnectWith@alt-plus-f4.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
